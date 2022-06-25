@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header h2 span {
   color: #fff;
-  border-bottom: 2px solid #ff3f81;
+  border-bottom: 2px solid #ffc4da;
   padding-bottom: 6px;
 }
 #header img {
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
 }
 #header .social-links a {
-  font-size: 16px;
+  font-size: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -102,8 +102,8 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   margin-right: 8px;
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
 }
 #header .social-links a:hover {
   background: #ff3f81;
@@ -981,7 +981,7 @@ section .container {
   border-radius: 4px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #15bb62;
+  background: #b62c5c;
 }
 @-webkit-keyframes animate-loading {
   0% {
